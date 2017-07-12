@@ -4,6 +4,6 @@ if(confirm("Estas contento en clase?")){
 	alert("Genial, me alegra");
 }else{
 	//lo que hace si no se cumple la condicion 
-	alert("A ok, entonces vete");
+	alert("A ok, entonces adios");
 }
 
